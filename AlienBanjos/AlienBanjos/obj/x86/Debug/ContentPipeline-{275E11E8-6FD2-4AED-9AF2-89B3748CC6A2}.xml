@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Menu\Button.png</Source>
+      <Name>Menu\Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Menu\Button.xnb</Output>
+      <Time>2014-04-28T16:47:39.0601175+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu.png</Source>
+      <Name>Menu\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Menu\MainMenu.xnb</Output>
+      <Time>2014-04-28T16:50:26.0391294+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\stars.jpg</Source>
+      <Name>Background\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Background\stars.xnb</Output>
+      <Time>2014-05-10T17:30:46.8657729+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\accordian.png</Source>
+      <Name>Textures\accordian</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\accordian.xnb</Output>
+      <Time>2014-05-11T03:14:23.4678087+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\AttackerBanjo.png</Source>
+      <Name>Textures\AttackerBanjo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\AttackerBanjo.xnb</Output>
+      <Time>2014-05-12T04:13:17.3562945+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DeadlyStrummer.png</Source>
+      <Name>Textures\DeadlyStrummer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\DeadlyStrummer.xnb</Output>
+      <Time>2014-05-11T19:22:06.5941628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\note.png</Source>
+      <Name>Textures\note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\note.xnb</Output>
+      <Time>2014-05-11T03:14:55.3908645+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlainBanjo.png</Source>
+      <Name>Textures\PlainBanjo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\PlainBanjo.xnb</Output>
+      <Time>2014-05-11T03:15:11.5639194+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\space.jpg</Source>
+      <Name>Background\space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Background\space.xnb</Output>
+      <Time>2014-05-12T00:07:48.3835468+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion3.png</Source>
+      <Name>explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\explosion3.xnb</Output>
+      <Time>2014-05-11T22:48:55.152979+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Health.png</Source>
+      <Name>Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Health.xnb</Output>
+      <Time>2014-05-11T23:30:59.2927173+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\load.png</Source>
+      <Name>Menu\load</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Menu\load.xnb</Output>
+      <Time>2014-05-12T03:06:36.0384403+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\scroll.png</Source>
+      <Name>Background\scroll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Background\scroll.xnb</Output>
+      <Time>2014-05-12T03:50:52.4789369+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2014-05-10T22:23:32.2985495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LaserShot.wav</Source>
+      <Name>LaserShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\LaserShot.xnb</Output>
+      <Time>2014-05-11T03:24:29.8308501+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpaceMusic.wav</Source>
+      <Name>SpaceMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\SpaceMusic.xnb</Output>
+      <Extra>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\SpaceMusic.wma</Extra>
+      <Time>2014-05-11T03:27:03.30635+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{275E11E8-6FD2-4AED-9AF2-89B3748CC6A2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjosContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-26T16:23:04.2056143+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

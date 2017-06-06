@@ -1,0 +1,81 @@
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.exe
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.pdb
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.csprojResolveAssemblyReference.cache
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.exe
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.pdb
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Teemo.xnb
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Ryze.xnb
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Poppy.xnb
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.csprojResolveAssemblyReference.cache
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.exe
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.pdb
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Teemo.xnb
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Ryze.xnb
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Poppy.xnb
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.exe
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.pdb
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\chogath.xnb
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\BLASTCAT.xnb
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Button.xnb
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\MainMenu.xnb
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Teemo.xnb
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Ryze.xnb
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Poppy.xnb
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\chogath.xnb
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\BLASTCAT.xnb
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Button.xnb
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\MainMenu.xnb
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.exe
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.pdb
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.csprojResolveAssemblyReference.cache
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.exe
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.pdb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.exe
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.pdb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.exe
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.pdb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Menu\Button.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Menu\MainMenu.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Background\stars.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\PlainBanjo.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Arial.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\Note.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\accordian.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\AttackerBanjo.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\DeadlyStrummer.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\LaserShot.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\SpaceMusic.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\SpaceMusic.wma
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Background\space.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\explosion3.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Health.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Menu\load.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Background\scroll.xnb
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.csprojResolveAssemblyReference.cache
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Menu\Button.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Menu\MainMenu.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Background\stars.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\accordian.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\AttackerBanjo.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\DeadlyStrummer.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\note.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Textures\PlainBanjo.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Background\space.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\explosion3.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Health.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Menu\load.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Background\scroll.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\Arial.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\LaserShot.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\SpaceMusic.xnb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\Content\SpaceMusic.wma
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.exe
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\bin\x86\Debug\AlienBanjos.pdb
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.csprojResolveAssemblyReference.cache
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.exe
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjos\obj\x86\Debug\AlienBanjos.pdb

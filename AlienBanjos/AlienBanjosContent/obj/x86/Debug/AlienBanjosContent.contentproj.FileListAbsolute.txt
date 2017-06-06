@@ -1,0 +1,5 @@
+D:\Skydrive\Documents\Programming Projects\AlienBanjos\AlienBanjos\AlienBanjosContent\obj\x86\Debug\AlienBanjosContent.contentprojResolveAssemblyReference.cache
+G:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjosContent\obj\x86\Debug\AlienBanjosContent.contentprojResolveAssemblyReference.cache
+F:\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjosContent\obj\x86\Debug\AlienBanjosContent.contentprojResolveAssemblyReference.cache
+D:\Skydrive\ALIEN BANJOS LABO WABO\AlienBanjos\AlienBanjos\AlienBanjosContent\obj\x86\Debug\AlienBanjosContent.contentprojResolveAssemblyReference.cache
+D:\Skydrive\Alien Banjo Attackers from Space - Elliott Revell\AlienBanjos\AlienBanjos\AlienBanjosContent\obj\x86\Debug\AlienBanjosContent.contentprojResolveAssemblyReference.cache
